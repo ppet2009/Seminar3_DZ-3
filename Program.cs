@@ -70,6 +70,7 @@ Console.WriteLine($"Distance ={findDistance} ");
 
 */
 
+/*
 void  quad (int num)
 
 {
@@ -89,4 +90,5 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 quad(num); 
 
+*/
 
