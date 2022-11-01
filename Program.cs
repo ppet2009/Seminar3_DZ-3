@@ -78,7 +78,7 @@ void  quad (int num)
     while (step <= num)
     {
 
- Console.WriteLine($"куб числа { step } равен {step * step * step}");
+ Console.WriteLine($"куб числа { step } = {step * step * step}");
   
   step ++;
  } 
